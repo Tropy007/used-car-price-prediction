@@ -1,0 +1,7 @@
+metric,value
+Listings,"15,232"
+Median price,"$6,717"
+Price model R²,0.857
+Typical error (MAE),"$1,740"
+Premium classifier F1,0.889
+Premium accuracy,94.7%

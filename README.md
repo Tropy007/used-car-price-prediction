@@ -25,6 +25,14 @@ The test set was used **once**, after all model selection was done on training d
 
 ![Tree depth and overfitting](images/tree_depth_overfitting.png)
 
+## Interactive dashboard
+
+[![Tableau dashboard](images/tableau_dashboard.jpg)](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Used_Car_Price_Dashboard/UsedCarPrices)
+
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Used_Car_Price_Dashboard/UsedCarPrices)**
+
+The packaged workbook is [`dashboard/Used_Car_Price_Dashboard.twbx`](dashboard/Used_Car_Price_Dashboard.twbx). [`dashboard/export_dashboard_data.py`](dashboard/export_dashboard_data.py) rebuilds the dashboard tables in `dashboard/data/` from this project's data and code.
+
 ## Methods
 
 - Data cleaning and validation with **pandas**
